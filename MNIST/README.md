@@ -33,9 +33,12 @@ python train.py
 - `generated_{digit}_ex{n}.png` — generated examples for each digit 0-9
 
 ## Results
+<p align = "center" >
+<img width="672" height="324" alt="image" src="https://github.com/user-attachments/assets/2f1f4dda-0ef0-4b9e-acb9-141ac67a3bf6" />
+</p>
 
-<!-- Add your inference results here -->
 
 ---
 
 *For a full explanation of how VAEs work see [VAE.md](VAE.md)*
+
