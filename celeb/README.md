@@ -95,8 +95,12 @@ samples = model.decode(z)
 
 ## Results
 
-<!-- Add your reconstructions and generated samples here -->
-
+<p align="center">
+  <img width="1058" height="134" alt="image" src="https://github.com/user-attachments/assets/87a194a3-2611-4876-98f7-cb9cb8a511b4" />
+  <br>
+   <em>inferenced</em>
+</p>
 ---
 
 *For a full explanation of how VAEs work see [VAE.md](VAE.md)*
+
